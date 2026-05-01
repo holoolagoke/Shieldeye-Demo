@@ -1,0 +1,4 @@
+MONGO_URI==mongodb+srv://<admin_username>:<strong_password>@...
+LOG_DB_NAME=logs
+USER_DB_NAME=mainDB
+JWT_SECRET=demo_secret
